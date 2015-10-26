@@ -1,0 +1,24 @@
+?EXPERIMENTAL:Follow these instructions to upgrade to the experimental version of BeamNG -  http://wiki.beamng.com/BeamNG_Steam_Branch
+?MAC:Mac users - You cannot play BeamNG natively on OS X. You can however do it through Wine or Parallels.
+?D3D:DirectX error - DirectX errors can be resolved by following this link - http://www.microsoft.com/en-us/download/details.aspx?id=35
+?DIRECTX:DirectX error - DirectX errors can be resolved by following this link - http://www.microsoft.com/en-us/download/details.aspx?id=35
+?SYMBOLS:[@] - Intended for official BeamNG developers; [%] - Intended for channel moderators
+?DEMO:BeamNG has a free-to-play tech demo, perfect for evaluating the quality of gameplay on your system! - http://www.beamng.com/techdemo
+?CONTENT:Installation instructions for maps and vehicles can be found here - http://wiki.beamng.com/Installing_Content
+?CONTROLLER:Setting up a controler with BeamNG can be difficult. A full list of instructions are available here - http://wiki.beamng.com/Playing#Configuring_your_own_controller
+?CHANGELOG:A changelog is available here - http://wiki.beamng.com/Changelog
+?ALPHA:The Alpha version of BeamNG is available for purchase by following this link - http://sites.fastspring.com/beamng/product/alpha
+?CPU:To check what CPU you have, visit this site - http://www.wikihow.com/Tell-What-Kind-of-Processor-You-Have
+?GPU:To check what GPU you have, visit this site - http://www.wikihow.com/Find-Out--What-Graphics-Card-You-Have
+?CONTACT:Contacting the BeamNG team will allow certain issues to be fixed directly! - www.beamng.com/contactus/
+?REQUIREMENTS:An extensive list of BeamNG requirements can be found here - http://wiki.beamng.com/Requirements
+?BACKUP:You can get a standalone version of BeamNG here - http://www.beamng.com/threads/2054-BeamNG-drive-Alpha-test-Backup-only-download
+?LINUX:BeamNG has been confirmed to work on Linux through Wine. However we do not support this - http://www.beamng.com/threads/12105-Beamng-is-working-on-Linux!
+?LASTORDER:You can retrieve lost BeamNG keys here - http://www.beamng.com/service/latestorder
+?WIKI:The BeamNG Wiki answers a lot of questions you may have: - http://wiki.beamng.com/
+?SCREENSHOT:You can upload BeamNG related screenshots here - http://media.beamng.com/
+?mods:Vehicles - www.beamng.com/forums/26-Vehicles | Terrains - www.beamng.com/forums/27-Terrains
+?alphadownload:Video instructions for buying/install BeamNG can be found here - https://www.youtube.com/watch?v=lg8PripEO7I
+?unzip:You can learn how to unzip a file by watching this video - https://www.youtube.com/watch?v=UvsMBPYpQco
+?ai:The AI system for BeamNG has changed and doesn't include chase/follow/run away functions anymore. These will be readded in future updates.
+?spawn:To spawn a second vehicle within the alpha version of BeamNG press the 'ESC' key, select 'debug' and click on 'spawn new'
