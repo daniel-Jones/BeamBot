@@ -1,0 +1,24 @@
+
+Web panel located at danieljon.es/beambot
+	using apache auth (?)
+	Using token auth emailed to me (?)
+	Web panel features:
+		Blog/website theme (?)
+		Send messages
+		Edit user command list
+		Join channels
+		Part channels
+		Restart bot
+		Change nickname
+		
+Python bot
+	Rewrite bot/reuse components
+	Use threading
+		Webserver thread (?)
+		Send/receive data thread
+		Bot thread
+
+Idea for web interface:
+website with a form -> use javascript to send post requests without leaving page
+seperate python script running using cgi to get post data -> connect to beambot with a socket
+beambot receives input from cgi script -> do what is requested -> send a response back (?)

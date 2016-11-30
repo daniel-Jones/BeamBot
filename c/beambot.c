@@ -6,7 +6,7 @@
    ~ daniel_j
  */
 #include <stdio.h> /* standard io */
-#include <stdlib.h> /* standard lbirary */
+#include <stdlib.h> /* standard library */
 #include <string.h> /* string */
 #include <sys/socket.h> /* sockets */
 #include <netdb.h> /* network host */
@@ -66,7 +66,7 @@ int main(int argc, char **argv)
 				if (!joinedchannel)
 				{
 					joinedchannel = 1;
-					bot_send(sockfd, "JOIN #fun\r\n", debug);
+					bot_send(sockfd, "JOIN #tests\r\n", debug);
 				}
 			}
 			/* message isn't a ping, send off to be handled */
@@ -133,7 +133,8 @@ void handle_in(int sockfd, char *recvline, int debug)
 	if (strstr(recvline, "PRIVMSG") != NULL)
 	{
 		/* we received a message, lets handle it */
-		printf("%s\n", recvline);
-		bot_send(sockfd, "PRIVMSG #fun :message\r\n", debug);
+		if (debug)
+			printf("%s\n", recvline);
+		//bot_send(sockfd, "PRIVMSG #tests :message\r\n", debug);
 	}
 }
